@@ -1,0 +1,29 @@
+// 2839. Check if Strings Can be Made Equal With Operations I
+// Difficulty : Easy
+// Runtime    : 2 ms
+// Memory     : 44.2 MB
+// URL        : https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/
+
+class Solution {
+    public boolean canBeEqual(String s1, String s2) {
+
+        if(s1.length() != s2.length()) return false;
+
+        int[] even1 = new int[26];
+        int[] odd1 = new int[26];
+        int[] even2 = new int[26];
+        int[] odd2 = new int[26];
+
+        for(int i = 0; i < s1.length(); i++) {
+            if(i % 2 == 0) {
+                even1[s1.charAt(i) - 'a']++;
+                even2[s2.charAt(i) - 'a']++;
+            } else {
+                odd1[s1.charAt(i) - 'a']++;
+                odd2[s2.charAt(i) - 'a']++;
+            }
+        }
+
+        return Arrays.equals(even1, even2) && Arrays.equals(odd1, odd2);
+    }
+}
