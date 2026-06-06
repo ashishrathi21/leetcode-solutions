@@ -53,3 +53,15 @@ https://leetcode.com/u/Ashish_Rathi_21/
 This repository is continuously updated as I solve new problems and learn new algorithms.
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+<!---LeetCode Topics End-->
