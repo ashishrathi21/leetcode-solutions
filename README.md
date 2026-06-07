@@ -64,4 +64,16 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
