@@ -61,6 +61,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +86,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3689-maximum-total-subarray-value-i](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 <!---LeetCode Topics End-->
