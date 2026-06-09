@@ -70,6 +70,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0148-sort-list](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ Happy Coding! 🚀
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -90,4 +92,16 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3689-maximum-total-subarray-value-i](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
