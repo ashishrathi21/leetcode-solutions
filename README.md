@@ -66,12 +66,15 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 <!---LeetCode Topics End-->
