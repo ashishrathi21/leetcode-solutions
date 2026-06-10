@@ -60,5 +60,10 @@ Happy Coding! 🚀
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 <!---LeetCode Topics End-->
