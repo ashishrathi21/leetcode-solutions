@@ -54,3 +54,11 @@ This repository is continuously updated as I solve new problems and learn new al
 
 Happy Coding! 🚀
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+<!---LeetCode Topics End-->
