@@ -70,11 +70,29 @@ Happy Coding! 🚀
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
