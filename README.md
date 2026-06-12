@@ -115,4 +115,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
