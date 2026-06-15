@@ -63,11 +63,13 @@ Happy Coding! 🚀
 | [0023-merge-k-sorted-lists](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
