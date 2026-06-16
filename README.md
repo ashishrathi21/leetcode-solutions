@@ -88,6 +88,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [1470-shuffle-the-array](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
