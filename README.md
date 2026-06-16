@@ -128,6 +128,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Simulation
@@ -138,6 +139,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0062-unique-paths](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -147,4 +149,5 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
