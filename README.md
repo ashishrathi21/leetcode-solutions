@@ -88,6 +88,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [1929-concatenation-of-array](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
@@ -134,6 +135,7 @@ Happy Coding! 🚀
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
