@@ -77,6 +77,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
