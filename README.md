@@ -73,6 +73,7 @@ Happy Coding! 🚀
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0062-unique-paths](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0268-missing-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
@@ -100,6 +101,7 @@ Happy Coding! 🚀
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0268-missing-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Bit Manipulation
@@ -134,6 +136,7 @@ Happy Coding! 🚀
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
