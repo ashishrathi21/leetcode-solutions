@@ -67,6 +67,7 @@ Happy Coding! 🚀
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -141,6 +142,7 @@ Happy Coding! 🚀
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -156,6 +158,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0062-unique-paths](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 ## Combinatorics
