@@ -147,12 +147,14 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
@@ -170,6 +172,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [2390-removing-stars-from-a-string](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
