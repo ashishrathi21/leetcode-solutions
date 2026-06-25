@@ -69,6 +69,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0031-next-permutation](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -93,6 +94,7 @@ Happy Coding! 🚀
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0041-first-missing-positive](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0268-missing-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
