@@ -166,6 +166,7 @@ Happy Coding! 🚀
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Simulation
