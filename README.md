@@ -80,6 +80,7 @@ Happy Coding! 🚀
 | [0012-integer-to-roman](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0062-unique-paths](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0268-missing-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
