@@ -64,6 +64,7 @@ Happy Coding! 🚀
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0705-design-hashset](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
@@ -106,6 +107,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0705-design-hashset](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [0735-asteroid-collision](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [1470-shuffle-the-array](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -123,6 +125,7 @@ Happy Coding! 🚀
 | [0012-integer-to-roman](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0041-first-missing-positive](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0268-missing-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0705-design-hashset](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -247,4 +250,12 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 <!---LeetCode Topics End-->
