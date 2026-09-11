@@ -120,6 +120,7 @@ Happy Coding! 🚀
 | [3838-weighted-word-mapping](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,6 +214,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
