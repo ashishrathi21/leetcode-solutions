@@ -105,6 +105,7 @@ Happy Coding! 🚀
 | [0031-next-permutation](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0041-first-missing-positive](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0268-missing-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0705-design-hashset](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
@@ -140,6 +141,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Divide and Conquer
