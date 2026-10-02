@@ -181,6 +181,7 @@ Happy Coding! 🚀
 | [0032-longest-valid-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0796-rotate-string](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -214,6 +215,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0735-asteroid-collision](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Prefix Sum
@@ -275,4 +277,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 <!---LeetCode Topics End-->
