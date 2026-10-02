@@ -110,6 +110,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0496-next-greater-element-i](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0705-design-hashset](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [0735-asteroid-collision](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -131,6 +132,7 @@ Happy Coding! 🚀
 | [0012-integer-to-roman](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0041-first-missing-positive](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0268-missing-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0496-next-greater-element-i](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0705-design-hashset](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -214,6 +216,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0496-next-greater-element-i](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -281,4 +284,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
