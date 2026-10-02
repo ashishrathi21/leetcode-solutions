@@ -106,6 +106,7 @@ Happy Coding! 🚀
 | [0031-next-permutation](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0041-first-missing-positive](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0260-single-number-iii](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -138,6 +139,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0260-single-number-iii](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
