@@ -115,6 +115,7 @@ Happy Coding! 🚀
 | [0540-single-element-in-a-sorted-array](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0705-design-hashset](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [0735-asteroid-collision](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1470-shuffle-the-array](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -220,6 +221,7 @@ Happy Coding! 🚀
 | [0496-next-greater-element-i](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -291,4 +293,5 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
