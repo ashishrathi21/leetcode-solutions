@@ -105,6 +105,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0041-first-missing-positive](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0260-single-number-iii](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
@@ -218,6 +219,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -291,7 +293,12 @@ Happy Coding! 🚀
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
