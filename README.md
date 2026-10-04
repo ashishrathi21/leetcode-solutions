@@ -185,6 +185,7 @@ Happy Coding! 🚀
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -210,6 +211,7 @@ Happy Coding! 🚀
 | [0062-unique-paths](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +224,7 @@ Happy Coding! 🚀
 | [0084-largest-rectangle-in-histogram](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -237,6 +240,7 @@ Happy Coding! 🚀
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Counting Sort
@@ -289,6 +293,7 @@ Happy Coding! 🚀
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
