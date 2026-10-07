@@ -124,6 +124,7 @@ Happy Coding! 🚀
 | [1929-concatenation-of-array](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -139,6 +140,7 @@ Happy Coding! 🚀
 | [0705-design-hashset](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ashishrathi21/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/ashishrathi21/leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -262,6 +264,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,4 +317,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ashishrathi21/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
