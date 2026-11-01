@@ -181,6 +181,7 @@ Happy Coding! 🚀
 | [0178-rank-scores](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0178-rank-scores/) | Medium |
 | [0182-duplicate-emails](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0183-customers-who-never-order/) | Easy |
+| [0184-department-highest-salary](https://github.com/ashishrathi21/leetcode-solutions/tree/main/0184-department-highest-salary/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
